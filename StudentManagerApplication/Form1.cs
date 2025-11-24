@@ -200,7 +200,7 @@ namespace StudentManagerApplication
                 }
             }
         }
-
+        // Feature: Search functionality 
         private void btnSearch_Click(object sender, EventArgs e)
         {
             string keyword = txtName.Text.ToLower(); // Lấy từ khóa và chuyển về chữ thường

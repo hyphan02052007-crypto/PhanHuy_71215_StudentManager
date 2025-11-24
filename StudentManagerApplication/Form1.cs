@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace StudentManagerApplication
 {
+    // UI Update: Setup DataGridView and Buttons
     public partial class Form1 : Form
     {
         List<Student> studentList = new List<Student>();

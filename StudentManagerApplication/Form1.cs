@@ -37,7 +37,7 @@ namespace StudentManagerApplication
             dgvStudents.DataSource = studentList;
         }
 
-
+        // Feature: Implement Add, Edit, and Delete logic
         private void btnAdd_Click(object sender, EventArgs e)
         {
             // Kiểm tra nhập đầy đủ thông tin

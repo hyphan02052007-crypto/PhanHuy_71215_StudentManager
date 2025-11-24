@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentManagerApplication
 {
+    // Student Entity Class
     public class Student
     {
         // Định nghĩa các thuộc tính dựa trên thiết kế 

@@ -56,7 +56,7 @@ namespace StudentManagerApplication
             }
             // 3. Kiểm tra Tên
             if (string.IsNullOrWhiteSpace(txtName.Text))
-            {
+            {// Validation check: Ensure Name is not empty (Feature/Intro)
                 MessageBox.Show("Chưa nhập tên!");
                 return;
             }

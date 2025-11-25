@@ -18,7 +18,6 @@ Hỗ trợ các chức năng: Thêm, Sửa, Xóa, Tìm kiếm và lưu trữ d�
 
 ## 4. Minh chứng Pull Request
 Link PR đã merge: [https://github.com/hyphan02052007-crypto/PhanHuy_71215_StudentManager/pull/1]
-(Vào tab Pull Requests -> Closed -> Bấm vào cái em vừa merge -> Copy link trên trình duyệt)
 
 ## 5. Ảnh minh chứng
 ### Giao diện ứng dụng
